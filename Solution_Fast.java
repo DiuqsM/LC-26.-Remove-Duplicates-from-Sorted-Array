@@ -1,4 +1,4 @@
-class Solution {
+class Solution_Fast {
     public int removeDuplicates(int[] nums) {
         //creates the first pointer 
         int[][] map = {{0,nums[0]}}; 
